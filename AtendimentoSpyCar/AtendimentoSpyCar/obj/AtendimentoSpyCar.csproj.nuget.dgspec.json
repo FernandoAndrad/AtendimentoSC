@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj": {}
+    "C:\\GitHub\\AtendimentoSC\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj": {
+    "C:\\GitHub\\AtendimentoSC\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj",
+        "projectUniqueName": "C:\\GitHub\\AtendimentoSC\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj",
         "projectName": "AtendimentoSpyCar",
-        "projectPath": "C:\\GitHub\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj",
+        "projectPath": "C:\\GitHub\\AtendimentoSC\\AtendimentoSpyCar\\AtendimentoSpyCar\\AtendimentoSpyCar.csproj",
         "packagesPath": "C:\\Users\\feran\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AtendimentoSpyCar\\AtendimentoSpyCar\\obj\\",
+        "outputPath": "C:\\GitHub\\AtendimentoSC\\AtendimentoSpyCar\\AtendimentoSpyCar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

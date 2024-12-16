@@ -1,0 +1,34 @@
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.exe
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.deps.json
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.runtimeconfig.json
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.dll
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.pdb
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.Form1.resources
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.csproj.GenerateResource.cache
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.AssemblyInfoInputs.cache
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.AssemblyInfo.cs
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.csproj.CoreCompileInputs.cache
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.dll
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\refint\AtendimentoSpyCar.dll
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.pdb
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.genruntimeconfig.cache
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\ref\AtendimentoSpyCar.dll
+D:\Programação\Estudos\Spy Car\2 - Atendimento\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.Properties.Resources.resources
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.exe
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.deps.json
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.runtimeconfig.json
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.dll
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\bin\Debug\net8.0-windows\AtendimentoSpyCar.pdb
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.Form1.resources
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.Properties.Resources.resources
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.csproj.GenerateResource.cache
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.AssemblyInfoInputs.cache
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.AssemblyInfo.cs
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.csproj.CoreCompileInputs.cache
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.dll
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\refint\AtendimentoSpyCar.dll
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.pdb
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\AtendimentoSpyCar.genruntimeconfig.cache
+C:\GitHub\AtendimentoSpyCar\AtendimentoSpyCar\obj\Debug\net8.0-windows\ref\AtendimentoSpyCar.dll

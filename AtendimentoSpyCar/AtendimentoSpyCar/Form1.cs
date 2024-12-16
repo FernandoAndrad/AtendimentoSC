@@ -12,6 +12,7 @@ namespace AtendimentoSpyCar
         {
             InitializeComponent();
             PreCarregar();
+            //Desabilitando de maneira provisiória, botões ainda não estão prontos
             btnScript.Enabled = false;
             btnAtualizar.Enabled = false;
         }
@@ -31,7 +32,13 @@ namespace AtendimentoSpyCar
         new { Nome = "Mariana", Telefone = "(41) 97766-3344", Telefone2 = "(41) 99999-8888", Email = "mariana@exemplo.com", Observacoes = "Teste 8" },
         new { Nome = "Carlos", Telefone = "(21) 99330-4412", Telefone2 = "(21) 99999-3333", Email = "carlos@exemplo.com", Observacoes = "Teste 9" },
         new { Nome = "Bianca", Telefone = "(81) 93322-0011", Telefone2 = "(81) 99999-2222", Email = "bianca@exemplo.com", Observacoes = "Teste 10" }
-            };
+        }; 
+            foreach (var dado in dadosTeste)
+            {
+                var item = new ListViewItem(new[] { dado.Nome, dado.Telefone, dado.Telefone2, dado.Email, dado.Observacoes });
+                lvRegistrados.Items.Add(item);
+            }
+    }
 
        //Método para limpar todos os campos de texto
         public void LimparCampos()
@@ -41,14 +48,7 @@ namespace AtendimentoSpyCar
             mtxtTelefone2.Clear();
             txtEmail.Clear();
             rtxtObs.Clear();
-        }
-
-            foreach (var dado in dadosTeste)
-            {
-                var item = new ListViewItem(new[] { dado.Nome, dado.Telefone, dado.Telefone2, dado.Email, dado.Observacoes });
-                lvRegistrados.Items.Add(item);
-            }
-        }
+        }            
 
         //Ao clicar no botão Registrar Ligação
         private void BtnRegistrar_Click(object sender, EventArgs e)

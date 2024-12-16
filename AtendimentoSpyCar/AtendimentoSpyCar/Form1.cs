@@ -16,22 +16,12 @@ namespace AtendimentoSpyCar
             btnAtualizar.Enabled = false;
         }
 
-       //Método para limpar todos os campos de texto
-        public void LimparCampos()
-        {
-            txtNome.Clear();
-            mtxtTelefone1.Clear();
-            mtxtTelefone2.Clear();
-            txtEmail.Clear();
-            rtxtObs.Clear();
-        }
-
         //Método para carregar dados no ListView para testar o programa
         private void PreCarregar()
         {
             var dadosTeste = new[]
             {
-        new { Nome = "FernandoTeste", Telefone = "(11) 98280-5615", Telefone2 = "(11) 95167-1530", Email = "fer.andrad3@gmail.com", Observacoes = "Teste 1" },
+        new { Nome = "Fernando", Telefone = "(11) 98280-5615", Telefone2 = "(11) 95167-1530", Email = "fer.andrad3@gmail.com", Observacoes = "Teste 1" },
         new { Nome = "Ana", Telefone = "(31) 98877-1122", Telefone2 = "(31) 99999-1111", Email = "ana@exemplo.com", Observacoes = "Teste 2" },
         new { Nome = "Juliana", Telefone = "(91) 92211-2233", Telefone2 = "(91) 99999-6666", Email = "juliana@exemplo.com", Observacoes = "Teste 3" },
         new { Nome = "Lucas", Telefone = "(11) 91100-4455", Telefone2 = "(11) 99999-7777", Email = "lucas@exemplo.com", Observacoes = "Teste 4" },
@@ -42,6 +32,16 @@ namespace AtendimentoSpyCar
         new { Nome = "Carlos", Telefone = "(21) 99330-4412", Telefone2 = "(21) 99999-3333", Email = "carlos@exemplo.com", Observacoes = "Teste 9" },
         new { Nome = "Bianca", Telefone = "(81) 93322-0011", Telefone2 = "(81) 99999-2222", Email = "bianca@exemplo.com", Observacoes = "Teste 10" }
             };
+
+       //Método para limpar todos os campos de texto
+        public void LimparCampos()
+        {
+            txtNome.Clear();
+            mtxtTelefone1.Clear();
+            mtxtTelefone2.Clear();
+            txtEmail.Clear();
+            rtxtObs.Clear();
+        }
 
             foreach (var dado in dadosTeste)
             {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtendimentoSpyCar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f828b49869313c17cf129be34e6fc489c54f4aba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6fbc0084ffc250455b5af525e8a95b5004e53d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtendimentoSpyCar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtendimentoSpyCar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

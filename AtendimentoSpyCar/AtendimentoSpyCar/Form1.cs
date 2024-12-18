@@ -17,6 +17,16 @@ namespace AtendimentoSpyCar
             btnAtualizar.Enabled = false;
         }
 
+        //Método para limpar todos os campos de texto
+        public void LimparCampos()
+        {
+            txtNome.Clear();
+            mtxtTelefone1.Clear();
+            mtxtTelefone2.Clear();
+            txtEmail.Clear();
+            rtxtObs.Clear();
+        }
+
         //Método para carregar dados no ListView para testar o programa
         private void PreCarregar()
         {
@@ -38,17 +48,7 @@ namespace AtendimentoSpyCar
                 var item = new ListViewItem(new[] { dado.Nome, dado.Telefone, dado.Telefone2, dado.Email, dado.Observacoes });
                 lvRegistrados.Items.Add(item);
             }
-    }
-
-       //Método para limpar todos os campos de texto
-        public void LimparCampos()
-        {
-            txtNome.Clear();
-            mtxtTelefone1.Clear();
-            mtxtTelefone2.Clear();
-            txtEmail.Clear();
-            rtxtObs.Clear();
-        }            
+    }          
 
         //Ao clicar no botão Registrar Ligação
         private void BtnRegistrar_Click(object sender, EventArgs e)
